@@ -36,6 +36,6 @@ function dec(n) {
 
 function makeInt(n) {
   var number
-  number = parseInt(n)
+  number = parseInt(n,10)
   return(number)
 }
