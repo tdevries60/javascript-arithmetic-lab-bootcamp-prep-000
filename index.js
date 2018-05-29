@@ -9,3 +9,9 @@ function subtract(a, b) {
   number = a - b
   return(number)
 }
+
+function multiply(a, b) {
+  var number
+  number = a * b
+  return(number)
+}
