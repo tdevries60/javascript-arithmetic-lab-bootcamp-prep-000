@@ -27,3 +27,9 @@ function inc(n) {
   number = ++n
   return(number)
 }
+
+function dec(n) {
+  var number
+  number = --n
+  return(number)
+}
