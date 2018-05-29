@@ -33,3 +33,9 @@ function dec(n) {
   number = --n
   return(number)
 }
+
+function makeInt(n) {
+  var number
+  number = parseInt(n)
+  return(number)
+}
