@@ -23,7 +23,7 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  var parseInt(number)
-  number = ++number
+  var number
+  number = ++n
   return(number)
 }
