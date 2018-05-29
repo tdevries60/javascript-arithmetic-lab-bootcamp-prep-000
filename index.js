@@ -15,3 +15,12 @@ function multiply(a, b) {
   number = a * b
   return(number)
 }
+
+function divide(a, b) {
+  var number
+  number = a / b
+  return(number)
+}
+
+
+
